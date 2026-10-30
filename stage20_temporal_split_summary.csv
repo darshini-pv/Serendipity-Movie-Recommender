@@ -1,0 +1,2 @@
+training_records,testing_records,training_users,testing_users,known_test_users,unseen_test_users,training_movies,testing_movies,known_test_movies,unseen_test_movies,training_latest_timestamp,testing_earliest_timestamp
+800167,200042,5400,1783,1143,640,3662,3511,3467,44,975768738,975768738

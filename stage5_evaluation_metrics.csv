@@ -1,0 +1,2 @@
+evaluation_users,precision_at_10,recall_at_10,ndcg_at_10,average_normalized_novelty,catalog_coverage,catalog_coverage_percentage,distinct_recommended_movies
+500,0.003,0.0031702534025114665,0.0033265099222110008,0.5424122591763735,0.41381185426862427,41.38118542686243,1522

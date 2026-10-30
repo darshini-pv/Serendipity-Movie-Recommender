@@ -1,0 +1,2 @@
+selected_regularization,selected_novelty_weight,precision_at_10,recall_at_10,ndcg_at_10,average_novelty,catalog_coverage,selection_basis
+10.0,0.01,0.185,0.12422085453542124,0.2262026808512074,0.16032841051210375,0.07901167526472984,Highest NDCG@10 on the tuning evaluation sample

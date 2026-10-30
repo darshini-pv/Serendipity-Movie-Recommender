@@ -1,0 +1,71 @@
+userId,movie_index,movieId,predicted_rating,preference_score,novelty_score,final_score,novelty_weight,title,genres
+1,39,40,5.0,1.0,0.6398533,1.0,0.0,"Cry, the Beloved Country (1995)",Drama
+1,40,41,5.0,1.0,0.39611772,1.0,0.0,Richard III (1995),Drama|War
+1,49,50,5.0,1.0,0.16380943,1.0,0.0,"Usual Suspects, The (1995)",Crime|Thriller
+1,91,94,5.0,1.0,0.42916122,1.0,0.0,Beautiful Girls (1996),Drama
+1,111,116,5.0,1.0,0.5916284,1.0,0.0,Anne Frank Remembered (1995),Documentary
+1,190,199,5.0,1.0,0.47336507,1.0,0.0,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",Drama|Musical
+1,252,262,5.0,1.0,0.4365742,1.0,0.0,"Little Princess, A (1995)",Children's|Drama
+1,320,333,5.0,1.0,0.3422073,1.0,0.0,Tommy Boy (1995),Comedy
+1,329,342,5.0,1.0,0.3075846,1.0,0.0,Muriel's Wedding (1994),Comedy|Romance
+1,332,345,5.0,1.0,0.32233062,1.0,0.0,"Adventures of Priscilla, Queen of the Desert, The (1994)",Comedy|Drama
+1,1898,2101,5.0,1.0,0.7145806,0.99714583,0.01,Squanto: A Warrior's Tale (1994),Adventure|Drama
+1,1844,2047,5.0,1.0,0.6559065,0.9965591,0.01,"Gnome-Mobile, The (1967)",Children's
+1,39,40,5.0,1.0,0.6398533,0.99639857,0.01,"Cry, the Beloved Country (1995)",Drama
+1,3069,3329,5.0,1.0,0.6398533,0.99639857,0.01,"Year My Voice Broke, The (1987)",Drama
+1,3501,3781,5.0,1.0,0.630276,0.9963028,0.01,Shaft in Africa (1973),Action|Crime
+1,378,391,5.0,1.0,0.60556805,0.99605566,0.01,Jason's Lyric (1994),Crime|Drama
+1,1723,1925,5.0,1.0,0.59495795,0.99594957,0.01,Wings (1927),Drama|Romance|War
+1,2577,2810,5.0,1.0,0.59495795,0.99594957,0.01,Perfect Blue (1997),Animation|Mystery
+1,111,116,5.0,1.0,0.5916284,0.9959163,0.01,Anne Frank Remembered (1995),Documentary
+1,3502,3782,5.0,1.0,0.57919884,0.995792,0.01,Shaft's Big Score! (1972),Action|Crime
+1,1898,2101,5.0,1.0,0.7145806,0.9942916,0.02,Squanto: A Warrior's Tale (1994),Adventure|Drama
+1,1844,2047,5.0,1.0,0.6559065,0.99311817,0.02,"Gnome-Mobile, The (1967)",Children's
+1,39,40,5.0,1.0,0.6398533,0.9927971,0.02,"Cry, the Beloved Country (1995)",Drama
+1,3069,3329,5.0,1.0,0.6398533,0.9927971,0.02,"Year My Voice Broke, The (1987)",Drama
+1,3501,3781,5.0,1.0,0.630276,0.99260557,0.02,Shaft in Africa (1973),Action|Crime
+1,378,391,5.0,1.0,0.60556805,0.9921114,0.02,Jason's Lyric (1994),Crime|Drama
+1,1723,1925,5.0,1.0,0.59495795,0.9918992,0.02,Wings (1927),Drama|Romance|War
+1,2577,2810,5.0,1.0,0.59495795,0.9918992,0.02,Perfect Blue (1997),Animation|Mystery
+1,111,116,5.0,1.0,0.5916284,0.9918326,0.02,Anne Frank Remembered (1995),Documentary
+1,3502,3782,5.0,1.0,0.57919884,0.991584,0.02,Shaft's Big Score! (1972),Action|Crime
+1,1898,2101,5.0,1.0,0.7145806,0.98572904,0.05,Squanto: A Warrior's Tale (1994),Adventure|Drama
+1,1844,2047,5.0,1.0,0.6559065,0.9827953,0.05,"Gnome-Mobile, The (1967)",Children's
+1,39,40,5.0,1.0,0.6398533,0.98199266,0.05,"Cry, the Beloved Country (1995)",Drama
+1,3069,3329,5.0,1.0,0.6398533,0.98199266,0.05,"Year My Voice Broke, The (1987)",Drama
+1,3501,3781,5.0,1.0,0.630276,0.9815138,0.05,Shaft in Africa (1973),Action|Crime
+1,378,391,5.0,1.0,0.60556805,0.9802784,0.05,Jason's Lyric (1994),Crime|Drama
+1,1723,1925,5.0,1.0,0.59495795,0.9797479,0.05,Wings (1927),Drama|Romance|War
+1,2577,2810,5.0,1.0,0.59495795,0.9797479,0.05,Perfect Blue (1997),Animation|Mystery
+1,111,116,5.0,1.0,0.5916284,0.9795814,0.05,Anne Frank Remembered (1995),Documentary
+1,3502,3782,5.0,1.0,0.57919884,0.9789599,0.05,Shaft's Big Score! (1972),Action|Crime
+1,1898,2101,5.0,1.0,0.7145806,0.971458,0.1,Squanto: A Warrior's Tale (1994),Adventure|Drama
+1,1844,2047,5.0,1.0,0.6559065,0.9655906,0.1,"Gnome-Mobile, The (1967)",Children's
+1,39,40,5.0,1.0,0.6398533,0.9639853,0.1,"Cry, the Beloved Country (1995)",Drama
+1,3069,3329,5.0,1.0,0.6398533,0.9639853,0.1,"Year My Voice Broke, The (1987)",Drama
+1,3501,3781,5.0,1.0,0.630276,0.9630276,0.1,Shaft in Africa (1973),Action|Crime
+1,378,391,5.0,1.0,0.60556805,0.9605568,0.1,Jason's Lyric (1994),Crime|Drama
+1,1723,1925,5.0,1.0,0.59495795,0.9594958,0.1,Wings (1927),Drama|Romance|War
+1,2577,2810,5.0,1.0,0.59495795,0.9594958,0.1,Perfect Blue (1997),Animation|Mystery
+1,111,116,5.0,1.0,0.5916284,0.95916283,0.1,Anne Frank Remembered (1995),Documentary
+1,3502,3782,5.0,1.0,0.57919884,0.95791984,0.1,Shaft's Big Score! (1972),Action|Crime
+1,1898,2101,5.0,1.0,0.7145806,0.9571871,0.15,Squanto: A Warrior's Tale (1994),Adventure|Drama
+1,1844,2047,5.0,1.0,0.6559065,0.948386,0.15,"Gnome-Mobile, The (1967)",Children's
+1,39,40,5.0,1.0,0.6398533,0.94597805,0.15,"Cry, the Beloved Country (1995)",Drama
+1,3069,3329,5.0,1.0,0.6398533,0.94597805,0.15,"Year My Voice Broke, The (1987)",Drama
+1,3501,3781,5.0,1.0,0.630276,0.94454145,0.15,Shaft in Africa (1973),Action|Crime
+1,378,391,5.0,1.0,0.60556805,0.94083524,0.15,Jason's Lyric (1994),Crime|Drama
+1,1723,1925,5.0,1.0,0.59495795,0.93924373,0.15,Wings (1927),Drama|Romance|War
+1,2577,2810,5.0,1.0,0.59495795,0.93924373,0.15,Perfect Blue (1997),Animation|Mystery
+1,111,116,5.0,1.0,0.5916284,0.9387443,0.15,Anne Frank Remembered (1995),Documentary
+1,3502,3782,5.0,1.0,0.57919884,0.9368799,0.15,Shaft's Big Score! (1972),Action|Crime
+1,1898,2101,5.0,1.0,0.7145806,0.9143742,0.3,Squanto: A Warrior's Tale (1994),Adventure|Drama
+1,1844,2047,5.0,1.0,0.6559065,0.89677197,0.3,"Gnome-Mobile, The (1967)",Children's
+1,39,40,5.0,1.0,0.6398533,0.891956,0.3,"Cry, the Beloved Country (1995)",Drama
+1,3069,3329,5.0,1.0,0.6398533,0.891956,0.3,"Year My Voice Broke, The (1987)",Drama
+1,3501,3781,5.0,1.0,0.630276,0.8890828,0.3,Shaft in Africa (1973),Action|Crime
+1,378,391,5.0,1.0,0.60556805,0.8816704,0.3,Jason's Lyric (1994),Crime|Drama
+1,1723,1925,5.0,1.0,0.59495795,0.87848735,0.3,Wings (1927),Drama|Romance|War
+1,2577,2810,5.0,1.0,0.59495795,0.87848735,0.3,Perfect Blue (1997),Animation|Mystery
+1,111,116,5.0,1.0,0.5916284,0.8774885,0.3,Anne Frank Remembered (1995),Documentary
+1,3502,3782,5.0,1.0,0.57919884,0.8737596,0.3,Shaft's Big Score! (1972),Action|Crime

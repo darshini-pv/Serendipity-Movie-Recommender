@@ -1,0 +1,2 @@
+selected_regularization,selected_novelty_weight,validation_ndcg_at_10,validation_precision_at_10,final_test_ndcg_at_10,final_test_precision_at_10,final_test_recall_at_10,final_test_average_novelty,final_test_catalog_coverage,selection_basis
+10,0.005,0.1368812927465803,0.10060000000000001,0.14027635300418684,0.0956,0.11887778996988209,0.1593444029315147,0.07629649742058105,Validation NDCG@10; final test evaluated after selection

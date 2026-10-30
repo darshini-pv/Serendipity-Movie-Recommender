@@ -1,0 +1,11 @@
+movieId,title,genres,predicted_rating,novelty_score,final_score,neighbour_count
+1646,Rocket Man (1997),Comedy,5.0,0.5103834,0.853115,1
+1111,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996),Documentary,5.0,0.5071926,0.8521578,1
+1003,Extreme Measures (1996),Drama|Thriller,5.0,0.4793801,0.843814,1
+2500,Jawbreaker (1999),Comedy,5.0,0.46990168,0.8409705,1
+1806,Paulie (1998),Adventure|Children's|Comedy,5.0,0.44090906,0.8322727,1
+2506,"Other Sister, The (1999)",Comedy|Drama|Romance,5.0,0.4365742,0.83097225,1
+1730,Kundun (1997),Drama,5.0,0.43488503,0.8304655,1
+94,Beautiful Girls (1996),Drama,5.0,0.43076771,0.8292303,1
+943,"Ghost and Mrs. Muir, The (1947)",Drama|Romance,5.0,0.43076771,0.8292303,1
+147,"Basketball Diaries, The (1995)",Drama,5.0,0.42070606,0.8262118,1

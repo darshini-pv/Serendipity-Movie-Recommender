@@ -1,0 +1,3 @@
+group,recommendation_count,mean_predicted_rating,mean_novelty,mean_unexpectedness
+Relevant,478,3.9610723389840965,0.15847531264794926,0.46444669054758697
+Not relevant in held-out test,4522,3.912646486405588,0.1594362705024002,0.5392710325715486

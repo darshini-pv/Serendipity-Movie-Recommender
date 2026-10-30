@@ -1,0 +1,11 @@
+userId,rank,movieId,title,genres,hybrid_score
+340,1,2396,Shakespeare in Love (1998),Comedy|Romance,0.6461043463110545
+340,2,318,"Shawshank Redemption, The (1994)",Drama,0.6456096664217329
+340,3,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance,0.645001192451998
+340,4,904,Rear Window (1954),Mystery|Thriller,0.6334499255803058
+340,5,50,"Usual Suspects, The (1995)",Crime|Thriller,0.633356494772862
+340,6,1230,Annie Hall (1977),Comedy|Romance,0.6322249776328093
+340,7,3061,Holiday Inn (1942),Comedy|Musical,0.6318856383348683
+340,8,2324,Life Is Beautiful (La Vita ï¿½ bella) (1997),Comedy|Drama,0.6316557275956829
+340,9,1200,Aliens (1986),Action|Sci-Fi|Thriller|War,0.6302457408558001
+340,10,916,Roman Holiday (1953),Comedy|Romance,0.6299977560727886

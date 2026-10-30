@@ -1,0 +1,2 @@
+users_compared,mean_ndcg_difference,users_selected_model_better,users_equal_ndcg,users_baseline_better
+500,0.13003756951679415,276,215,9

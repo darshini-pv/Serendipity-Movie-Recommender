@@ -1,0 +1,21 @@
+
+# Raw datasets
+data/
+*.zip
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Spyder files
+.spyproject/
+.spyderproject
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+stage21_movie_similarity_matrix.csv

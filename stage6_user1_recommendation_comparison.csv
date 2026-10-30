@@ -1,0 +1,21 @@
+Model,movieId,predicted_rating,novelty_score,final_score,neighbour_count,title,genres
+Baseline,17,5.0,0.25154215,1.0,1,Sense and Sensibility (1995),Drama|Romance
+Baseline,32,5.0,0.18562518,1.0,1,Twelve Monkeys (1995),Drama|Sci-Fi
+Baseline,39,5.0,0.19740841,1.0,1,Clueless (1995),Comedy|Romance
+Baseline,58,5.0,0.31501606,1.0,1,"Postino, Il (The Postman) (1994)",Drama|Romance
+Baseline,60,5.0,0.34914735,1.0,1,"Indian in the Cupboard, The (1995)",Adventure|Children's|Fantasy
+Baseline,94,5.0,0.43076771,1.0,1,Beautiful Girls (1996),Drama
+Baseline,147,5.0,0.42070606,1.0,1,"Basketball Diaries, The (1995)",Drama
+Baseline,161,5.0,0.2652409,1.0,2,Crimson Tide (1995),Drama|Thriller|War
+Baseline,333,5.0,0.33390918,1.0,1,Tommy Boy (1995),Comedy
+Baseline,342,5.0,0.3070324,1.0,1,Muriel's Wedding (1994),Comedy|Romance
+Novelty-aware,1646,5.0,0.5103834,0.853115,1,Rocket Man (1997),Comedy
+Novelty-aware,1111,5.0,0.5071926,0.8521578,1,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996),Documentary
+Novelty-aware,1003,5.0,0.4793801,0.843814,1,Extreme Measures (1996),Drama|Thriller
+Novelty-aware,2500,5.0,0.46990168,0.8409705,1,Jawbreaker (1999),Comedy
+Novelty-aware,1806,5.0,0.44090906,0.8322727,1,Paulie (1998),Adventure|Children's|Comedy
+Novelty-aware,2506,5.0,0.4365742,0.83097225,1,"Other Sister, The (1999)",Comedy|Drama|Romance
+Novelty-aware,1730,5.0,0.43488503,0.8304655,1,Kundun (1997),Drama
+Novelty-aware,94,5.0,0.43076771,0.8292303,1,Beautiful Girls (1996),Drama
+Novelty-aware,943,5.0,0.43076771,0.8292303,1,"Ghost and Mrs. Muir, The (1947)",Drama|Romance
+Novelty-aware,147,5.0,0.42070606,0.8262118,1,"Basketball Diaries, The (1995)",Drama

@@ -1,0 +1,3 @@
+model,users_evaluated,users_with_top10_ties,mean_unique_top10_scores,mean_top10_score_range,mean_candidate_predictions_at_5
+Mean-centered CF baseline,500,500,1.564,0.009589729885855072,0.01736399126180987
+Selected regularized CF,500,0,10.0,0.026286607910601716,5.468963631391851e-07

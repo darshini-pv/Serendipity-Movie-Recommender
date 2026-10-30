@@ -1,0 +1,24 @@
+diagnostic,value
+sampled_predictions,19995.0
+raw_prediction_mean,3.6778468737992145
+raw_prediction_std,0.7737863983500949
+clipped_prediction_mean,3.6740282314543307
+clipped_prediction_std,0.7635092710990554
+raw_predictions_below_1,0.001800450112528132
+raw_predictions_above_5,0.02275568892223056
+clipped_predictions_at_1,0.001800450112528132
+clipped_predictions_at_5,0.02275568892223056
+clipped_predictions_at_5_rounded,0.02320580145036259
+unique_raw_predictions_2dp,491.0
+unique_clipped_predictions_2dp,396.0
+mean_absolute_error,0.7250303012724368
+mean_neighbor_count,50.0
+User 1 candidate movies,3629.0
+User 1 neighbors used,50.0
+User 1 candidates predicted 5,117.0
+User 1 proportion predicted 5,0.032240286580325156
+User 1 raw predictions above 5,117.0
+User 1 unique clipped predictions 2dp,289.0
+User 1 unique baseline scores 4dp,877.0
+User 1 unique 1% novelty scores 4dp,1258.0
+User 1 unique 5% novelty scores 4dp,1393.0

@@ -1,0 +1,11 @@
+userId,movieId,predicted_rating,novelty_score,preference_score,novelty_weight,final_score,title,genres
+1,1264,5.0,0.38803366,1.0,0.0,1.0,Diva (1981),Action|Drama|Mystery|Romance|Thriller
+1,2539,5.0,0.28481245,1.0,0.0,1.0,Analyze This (1999),Comedy
+1,2084,5.0,0.50106525,1.0,0.0,1.0,Newsies (1992),Children's|Musical
+1,1161,5.0,0.49524823,1.0,0.0,1.0,"Tin Drum, The (Blechtrommel, Die) (1979)",Drama
+1,3565,5.0,0.38205844,1.0,0.0,1.0,Where the Heart Is (2000),Comedy|Drama
+1,2101,5.0,0.7145806,1.0,0.0,1.0,Squanto: A Warrior's Tale (1994),Adventure|Drama
+1,94,5.0,0.42916122,1.0,0.0,1.0,Beautiful Girls (1996),Drama
+1,1111,5.0,0.49958313,1.0,0.0,1.0,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996),Documentary
+1,2359,5.0,0.2713342,1.0,0.0,1.0,Waking Ned Devine (1998),Comedy
+1,2506,5.0,0.43404967,1.0,0.0,1.0,"Other Sister, The (1999)",Comedy|Drama|Romance
